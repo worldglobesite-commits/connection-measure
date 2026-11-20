@@ -11,7 +11,7 @@ node measure.js <url>
 Пример:
 
 ```
-node measure.js https://upload.wikimedia.org/wikipedia/commons/3/3f/Fronalpstock_big.jpg
+node measure.js https://en.wikipedia.org/wiki/DC_Comics#/media/File:DC_Comics_2024.svg
 ```
 
 ## Что делает
